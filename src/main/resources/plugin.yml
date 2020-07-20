@@ -2,3 +2,4 @@ name: MinecraftPluginBoilerplate
 version: 1.0.0
 description: Boilerplate for creating minecraft plugins with maven and kotlin
 main: main.Loader
+api-version: 1.16
