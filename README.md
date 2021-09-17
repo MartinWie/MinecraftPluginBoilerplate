@@ -15,3 +15,6 @@ Short list of thing you might want to change:
 * plugin.yml
     * name
     * description 
+
+## Support me :heart: :star: :money_with_wings:
+If this project provided value, and you want to give something back, you can give the repo a star or support by making buying me a coffee.<a href="https://buymeacoffee.com/MartinWie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="170"></a>
