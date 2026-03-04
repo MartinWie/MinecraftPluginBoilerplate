@@ -23,4 +23,22 @@ target/
 .installed.cfg
 *.egg
 
+# Mac
+.DS_Store
+**/.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+
+#Serena
+.serena/
 
